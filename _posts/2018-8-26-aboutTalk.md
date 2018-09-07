@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some deep thought on specking
+title: Some deep thought on speaking
 ---
 
 I have prepared TOEFL for just one week. I didn't do much more than become family with the test structure and timing requerments. Because I had passed GRE test, I don't think it's diffcult for preparing TOEFL. Not suprisingly, it is exactly true when doing the reading and listening section. I got almost the same score on both sections about 26. But when I do the speacking secton, I found that I couldn't say a word about some familily topics been asking. Then, I thought I shout do more working on speaking. Speak aloud, and speak longly. :(
