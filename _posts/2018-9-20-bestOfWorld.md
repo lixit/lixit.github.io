@@ -9,11 +9,11 @@ In my point of view, a good product has features like simple, rugged and easy to
 
 Also, this is a unfinished list. I will continually update it. Feel free to contact me if you have thoughts about what to add on it and making it better.
 
-##XPS15 95x0 or dell's precision mobile workstation
+## XPS15 95x0 or dell's precision mobile workstation
 Best laptop I ever heard for prgramming. The workstation series give you more choices of which component to choose over xps series, however, both cases are same.
 note: x is a placeholder. Current version is 9570.
 
-##Samsung's Galaxy S series smart phone
+## Samsung's Galaxy S series smart phone
 Best phone of the World. Although someone who may argue why it isn't their Apple product, I thought Apple's product is totally garbage. Apple's is over priced and it is close source trying to set up its own ecosystem. All of its software, connecting cables and so on are not compatible to rest of the world. As a programmer, I didn't give it a shit. These is more wonderful things I can explore than confine myself in its small cage. I didn't and will not try to do anything about it including but confining to develop softwares.
 
 And that's it. If you don't want all sorts of useless accessories to bother you, it's clearly enough.
