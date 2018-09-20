@@ -3,14 +3,14 @@ layout: post
 title: A best-of-the-World list(continually update)
 ---
 
-This post intends to provide a list of best resources that I ever used primarily from a aspect of programmers. However this also applies to others who want make their life easier.
+This post intends to provide a list of best resources that I ever used primarily from an aspect of programmers. However it also applies to others who want make their life easier.
 
-In my point of view, a good product has features like simple, rugged and easy to maintain. So you don't like that you buy a car hoping to let it takes you anywhere finally finding that it always has some shabby problems you have to repair. Ironically, you, a master of your car, finally become slave of it. That is clearly not what you intend to be.
+In my point of view, a good product has features like simple, rugged and easy to maintain. So, for example, you don't like that you buy a car hoping to let it take you anywhere finally finding that it always has some shabby problems you have to repair every other day. Ironically, you, a master of your car, finally become a slave of it. That is clearly not what you intended to be.
 
 Also, this is a unfinished list. I will continually update it. Feel free to contact me if you have thoughts about what to add on it and making it better.
 
 ## XPS15 95x0 or dell's precision mobile workstation
-Best laptop I ever heard for prgramming. The workstation series give you more choices of which component to choose over xps series, however, both cases are same.
+Best laptop I ever heard for prgramming. The workstation series give you more choices of which component to choose over xps series, however, both cases of the laptops are same.
 note: x is a placeholder. Current version is 9570.
 
 ## Samsung's Galaxy S series smart phone
@@ -18,4 +18,4 @@ Best phone of the World. Although someone who may argue why it isn't their Apple
 
 And that's it. If you don't want all sorts of useless accessories to bother you, it's clearly enough.
 
-Later, I will update some best recourse and books for getting started with programming as well studying English guide. Hope to see you next time!
+Later, I will update some best recourse and books for getting started with programming as well studying English guides. Hope to see you next time!
