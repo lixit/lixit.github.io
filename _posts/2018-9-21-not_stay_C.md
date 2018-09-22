@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Why I don't want staying in C
+title: Why not in C
 ---
 
 I never want to make some big titles with empty contents or make precise arguments. Since big titles make readers disappointed and I rightly dread precise argument. An argument that is convincing only if it is precise loses all its force if the assumptions on which it is based are slightly changed, whereas an argument that is convincing though imprecise may well be stable under small perturbations of its underlying assumptions. But this time I did both.
 
 In order to let you less uncomfortable, I abbreviate it to C.
 
-### scholarship environment
+###  academic environment
 
-C's scholarship environment arguably is very poor especially in Universities such as no matter P or some garbage ones. The so named professors are sitting to enjoy the ease and waiting to die. They publish so named theses copying and plagiarizing from foreign country to earn some reputation which are of no practical usages. Most of them don't good at E. So they let their students translate. 
+C's scholarship environment arguably is very poor especially in universities such as no matter P or some garbage ones. The so named professors are sitting to enjoy the ease and waiting to die. They publish so named theses copying and plagiarizing from foreign country to earn some reputation which are of no practical usages. Most of them don't good at E. So they let their students translate. 
 
 Their teaching materials are far out dated. They teach students knowledge that is found last century. The students earning bachelor or graduate degrees should be proud of their experience studying so many years. But once finding job, they realize they can do nothing. And because of that, their salaries is relatively low. The company prefer to hire employee to let them make wealth but not cultivate someone with low competence from some big universities. 
 
@@ -29,12 +29,12 @@ I am a person trending to let something best more better but not repair or upgra
 
 ### freedom
 
-Freedom means you can do anything just because you want as long as it doesn't not hurt others. I hate someone telling you can't do this and that especially s/he are not so c than m. Why I should under someone's control when it is no of s/he's business?  
+Freedom means you can do anything just because you want as long as it doesn't not hurt others. People hate someone telling them can't do this and that especially s/he are not so c than them. Why Y should under someone's control when it is no of s/he's business?  
 
 There are so many people in C. I am pretty know them for I have lived there more than twenty years. Most of them are so normal and plane. What they do is buy more and more houses making the price higher and make the city more crowd.
 
-### make life easier
+### products
 
-In the past two years, I gradually get rid of C products from my life. They create a lot of big troubles. They are poorly designed, low quality, always broken, stealing personal information, and controlled by the government. Since then I told to myself: If you want to make yourself easier, use C products as less as possible no matter hardware or software.
+In the past two years, I gradually get rid of C products from my life. They create a lot of big troubles. They are poorly designed, low quality, always broken, stealing personal information, and controlled by the G. Since then I told to myself: If you want to make yourself easier, use C products as less as possible no matter hardware or software.
 
-It worth to mention many C's instant message software are control by government. Government employee doesn't feel nothing to do to check your private message, but they can do it easily if they want. Many C's web browsers, anti-malware software and some garbage are uploading your information to their hosts. Don't use any of C's software because you don't want bother yourself to dig out which stupid sending your information.
+It worth to mention many C's instant message software are control by G. G employee doesn't feel nothing to do to check your private message, but they can do it easily if they want. Many C's web browsers, anti-malware software and some garbage are uploading your information to their hosts. Don't use any of C's software because you don't want bother yourself to dig out which stupid sending your information.
