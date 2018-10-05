@@ -15,14 +15,7 @@ on C
 
 ### 2015
 
-bought my first pc, a xps13(at that time called legend) laptop, and during
-the shopping I saw a Founder desktop with Redflag linux installed, people told
-me that operating system in named Unix, and nobody knew how to use it...
-
-
-### 2018
-
-This was the year I started to use C again
+bought my first laptop, a xps13 installed Linux 
 
 ### 2018
 
@@ -43,6 +36,6 @@ actually using Linux on ARM chip.
 
 ### 2018
 
-Worked for 2 months, as a hardware developer
+Worked for 2 months, as a C++ developer
 
 
