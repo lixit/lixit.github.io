@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Hi! I am Xitong, an [Open Source][oss] enthusiast. This site is dedicated to provide informations about [me](resume.html) and [what I do](/work).
+Hi! I am Xitong, a C++ developer. There is information about [me](resume.html).
 
 <p><br /><b>My Blog:</b></p>
   <ul class="posts">
@@ -24,5 +24,3 @@ Hi! I am Xitong, an [Open Source][oss] enthusiast. This site is dedicated to pro
 <blockquote>
 lixiton@gmail.com
 </blockquote>
-
-[oss]:http://en.wikipedia.org/wiki/Open_source
