@@ -2,7 +2,7 @@
 layout: post
 title: Talk is cheap. Show me the code
 ---
-## Caution!
+### Caution!
 The following contents may contain dangerous views. Always make judgements on your own basis!
 
 As you can see, I wrote this in English. Although English is not my fist language, I will continue doing so. The main purpose of this are 1) There will be some foreifn audiences. They may read this some days. And 2) I never expect those who don't like English to agree with me.

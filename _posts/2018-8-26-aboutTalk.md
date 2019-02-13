@@ -11,6 +11,3 @@ Here comes the main point. In my opinion, taking with human being can be compare
 
 That's being say: There is no gold road to Roman. There is no golden way to learn to speak. Just speaking as much and talk to different people. Correct the mistaks along the way. When they impress your speaking skills, you may make it then 
 
-## some secrets
-
-Once I was such a shy boy. When I meet some pretty girl, I was embressment and couldn't say fluently. And the more pretty the girl is the more I am shy. Today I met two girl in my village. They just will be freshmen. Even thouth we don't familily and they are 4 years younger, I talk kindly to them, asking a lot of questions and give some advises. In the end, we seems have a good friendship!
