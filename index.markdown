@@ -16,9 +16,10 @@ Hi! I am Xitong, a C++ developer. There is information about [me](resume.html).
 
 <ul>
 
+<li><a href="https://www.linkedin.com/in/lixitong/">LinkedIn</a></li>
 <li><a href="https://github.com/lixit/">Github</a></li>
 <li><a href="https://leetcode.com/lixiton/">LeetCode</a></li>
-<li><a href="https://www.linkedin.com/in/lixitong/">LinkedIn</a></li>
+<li><a href="https://stackoverflow.com/users/10984033/xitong">Stack Overflow</a></li>
 
 </ul>
 <p><br /><b>Contact Information:</b></p>
