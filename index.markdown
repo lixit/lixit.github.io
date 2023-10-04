@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Hi! I am Xitong, a C++ developer. There is information about [me](resume.html).
+Hi! I am Xitong, a MS CS student in University of Central Florida. Here is my [resume](resume.html)
 
 <p><br /><b>My Blog:</b></p>
   <ul class="posts">
@@ -25,5 +25,5 @@ Hi! I am Xitong, a C++ developer. There is information about [me](resume.html).
 <p><br /><b>Contact Information:</b></p>
 
 <blockquote>
-lixiton@gmail.com
+xitong@ucf.edu
 </blockquote>
