@@ -5,8 +5,6 @@
 layout: home
 ---
 
-## [Resume](resume.html)
-
 ## Find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/lixitong/)
