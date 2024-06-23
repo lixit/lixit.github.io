@@ -22,8 +22,8 @@ title: Xitong Li
 email: xitong@ucf.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I am a Master's student in Computer Science at the University of Central Florida. 
-  I started my career as a traditional programmer: worked with server, client, user interface, computer networking, primly using C/C++, Python, Linux. 
-  Now, I do more on deep learning. Design and fine-turn the large vision language models, large language models. 
+  I started my career as a backend developer: worked with server, client, computer networking, also user interface using C/C++, Python, Linux primarily. 
+  Now, I do more on deep learning. Design and fine-turn the large vision language models, large language models, and work with Transformers. 
   My hobby is programming embedded systems and using them to control electric devices.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -37,6 +37,7 @@ twitter_username: lixiton
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
